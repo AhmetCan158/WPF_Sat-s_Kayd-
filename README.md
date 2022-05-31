@@ -1,1 +1,2 @@
-# WPF_Sat-s_Kayd-
+# WPF_Satis_Kaydi
+Projeyi RAR'dan masaüstüne çıkartıp çalıştırınız.
